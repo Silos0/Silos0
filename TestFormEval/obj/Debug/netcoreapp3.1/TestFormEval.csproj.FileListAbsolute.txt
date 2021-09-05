@@ -1,0 +1,17 @@
+C:\Users\dotki\source\repos\spreadsheet-Silos0\Spreadsheet\TestFormEval\bin\Debug\netcoreapp3.1\TestFormEval.exe
+C:\Users\dotki\source\repos\spreadsheet-Silos0\Spreadsheet\TestFormEval\bin\Debug\netcoreapp3.1\TestFormEval.deps.json
+C:\Users\dotki\source\repos\spreadsheet-Silos0\Spreadsheet\TestFormEval\bin\Debug\netcoreapp3.1\TestFormEval.runtimeconfig.json
+C:\Users\dotki\source\repos\spreadsheet-Silos0\Spreadsheet\TestFormEval\bin\Debug\netcoreapp3.1\TestFormEval.runtimeconfig.dev.json
+C:\Users\dotki\source\repos\spreadsheet-Silos0\Spreadsheet\TestFormEval\bin\Debug\netcoreapp3.1\TestFormEval.dll
+C:\Users\dotki\source\repos\spreadsheet-Silos0\Spreadsheet\TestFormEval\bin\Debug\netcoreapp3.1\TestFormEval.pdb
+C:\Users\dotki\source\repos\spreadsheet-Silos0\Spreadsheet\TestFormEval\bin\Debug\netcoreapp3.1\FormulaEvaluator.dll
+C:\Users\dotki\source\repos\spreadsheet-Silos0\Spreadsheet\TestFormEval\bin\Debug\netcoreapp3.1\FormulaEvaluator.pdb
+C:\Users\dotki\source\repos\spreadsheet-Silos0\Spreadsheet\TestFormEval\obj\Debug\netcoreapp3.1\TestFormEval.csproj.AssemblyReference.cache
+C:\Users\dotki\source\repos\spreadsheet-Silos0\Spreadsheet\TestFormEval\obj\Debug\netcoreapp3.1\TestFormEval.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dotki\source\repos\spreadsheet-Silos0\Spreadsheet\TestFormEval\obj\Debug\netcoreapp3.1\TestFormEval.AssemblyInfoInputs.cache
+C:\Users\dotki\source\repos\spreadsheet-Silos0\Spreadsheet\TestFormEval\obj\Debug\netcoreapp3.1\TestFormEval.AssemblyInfo.cs
+C:\Users\dotki\source\repos\spreadsheet-Silos0\Spreadsheet\TestFormEval\obj\Debug\netcoreapp3.1\TestFormEval.csproj.CoreCompileInputs.cache
+C:\Users\dotki\source\repos\spreadsheet-Silos0\Spreadsheet\TestFormEval\obj\Debug\netcoreapp3.1\TestFormEval.csproj.CopyComplete
+C:\Users\dotki\source\repos\spreadsheet-Silos0\Spreadsheet\TestFormEval\obj\Debug\netcoreapp3.1\TestFormEval.dll
+C:\Users\dotki\source\repos\spreadsheet-Silos0\Spreadsheet\TestFormEval\obj\Debug\netcoreapp3.1\TestFormEval.pdb
+C:\Users\dotki\source\repos\spreadsheet-Silos0\Spreadsheet\TestFormEval\obj\Debug\netcoreapp3.1\TestFormEval.genruntimeconfig.cache

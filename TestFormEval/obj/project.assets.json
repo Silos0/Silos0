@@ -1,0 +1,95 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "FormulaEvaluator/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/FormulaEvaluator.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FormulaEvaluator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FormulaEvaluator/1.0.0": {
+      "type": "project",
+      "path": "../FormulaEvaluator/FormulaEvaluator.csproj",
+      "msbuildProject": "../FormulaEvaluator/FormulaEvaluator.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "FormulaEvaluator >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\dotki\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\dotki\\source\\repos\\spreadsheet-Silos0\\Spreadsheet\\TestFormEval\\TestFormEval.csproj",
+      "projectName": "TestFormEval",
+      "projectPath": "C:\\Users\\dotki\\source\\repos\\spreadsheet-Silos0\\Spreadsheet\\TestFormEval\\TestFormEval.csproj",
+      "packagesPath": "C:\\Users\\dotki\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\dotki\\source\\repos\\spreadsheet-Silos0\\Spreadsheet\\TestFormEval\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\dotki\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "C:\\Users\\dotki\\source\\repos\\spreadsheet-Silos0\\Spreadsheet\\FormulaEvaluator\\FormulaEvaluator.csproj": {
+              "projectPath": "C:\\Users\\dotki\\source\\repos\\spreadsheet-Silos0\\Spreadsheet\\FormulaEvaluator\\FormulaEvaluator.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
